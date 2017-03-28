@@ -7,3 +7,6 @@
 <p>
 
 <h3>Screenshots</h3>
+<img src=https://github.com/MPark0930/The-will-to-Kill/
+
+<h3>Resources</h3>
