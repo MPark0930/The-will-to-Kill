@@ -10,3 +10,5 @@
 <img src=https://github.com/MPark0930/The-will-to-Kill/>
 
 <h3>Resources</h3>
+<img src=https://www.python.org/downloads/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_GikMdhAhv0" frameborder="0" allowfullscreen></iframe>
